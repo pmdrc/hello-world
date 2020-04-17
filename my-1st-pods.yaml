@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
   - name: hello-world-container
-    image: dockers.io/hello-world
+    image: docker.io/httpd
