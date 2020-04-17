@@ -4,5 +4,5 @@ metadata:
   name: test-pod
 spec:
   containers:
-  - name: test-container
+  - name: hello-world-container
     image: dockers.io/hello-world
